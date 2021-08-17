@@ -1,0 +1,22 @@
+body{
+text-align:center;
+background:linear-gradient(#B2EBF2,#81C784,#43A047,#1B5E20);
+}
+h1{
+font-size:20px;
+   color:;
+}
+#bio{
+padding:20px;
+font-size:20px;
+text-align:center;
+
+}
+img{
+border-radius:50%;
+width:100px;
+}
+p
+{
+  color:#FFEBEE;
+}
